@@ -69,6 +69,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
-
-
+# Original ignore file list
+nohup.out
