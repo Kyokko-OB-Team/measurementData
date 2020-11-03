@@ -287,3 +287,15 @@
 {"time": "2020/11/03 23:30:03","temperature": "21.10","humidity": "58.24"}
 {"time": "2020/11/03 23:45:03","temperature": "21.15","humidity": "58.11"}
 {"time": "2020/11/04 00:00:04","temperature": "20.97","humidity": "57.65"}
+{"time": "2020/11/04 00:15:03","temperature": "20.80","humidity": "57.62"}
+{"time": "2020/11/04 00:30:02","temperature": "20.63","humidity": "55.98"}
+{"time": "2020/11/04 00:45:02","temperature": "20.51","humidity": "55.98"}
+{"time": "2020/11/04 01:00:03","temperature": "20.68","humidity": "55.40"}
+{"time": "2020/11/04 01:15:03","temperature": "20.45","humidity": "54.86"}
+{"time": "2020/11/04 01:30:02","temperature": "20.23","humidity": "56.05"}
+{"time": "2020/11/04 01:45:03","temperature": "20.20","humidity": "54.73"}
+{"time": "2020/11/04 02:00:03","temperature": "20.17","humidity": "54.02"}
+{"time": "2020/11/04 02:15:03","temperature": "20.17","humidity": "53.77"}
+{"time": "2020/11/04 02:30:03","temperature": "20.07","humidity": "53.64"}
+{"time": "2020/11/04 02:45:03","temperature": "20.00","humidity": "54.02"}
+{"time": "2020/11/04 03:00:03","temperature": "19.69","humidity": "54.71"}
