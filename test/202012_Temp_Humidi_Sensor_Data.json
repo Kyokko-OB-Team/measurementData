@@ -659,3 +659,15 @@
 {"time": "2020/12/07 20:30:03","temperature": "20.03","humidity": "55.82"}
 {"time": "2020/12/07 20:45:03","temperature": "19.86","humidity": "56.31"}
 {"time": "2020/12/07 21:00:03","temperature": "19.76","humidity": "56.76"}
+{"time": "2020/12/07 21:15:03","temperature": "19.52","humidity": "56.72"}
+{"time": "2020/12/07 21:30:02","temperature": "19.28","humidity": "56.76"}
+{"time": "2020/12/07 21:45:02","temperature": "19.08","humidity": "57.15"}
+{"time": "2020/12/07 22:00:03","temperature": "19.42","humidity": "58.70"}
+{"time": "2020/12/07 22:15:02","temperature": "21.28","humidity": "60.82"}
+{"time": "2020/12/07 22:30:03","temperature": "22.82","humidity": "59.63"}
+{"time": "2020/12/07 22:45:02","temperature": "23.85","humidity": "58.33"}
+{"time": "2020/12/07 23:00:02","temperature": "24.57","humidity": "56.72"}
+{"time": "2020/12/07 23:15:02","temperature": "25.02","humidity": "56.30"}
+{"time": "2020/12/07 23:30:03","temperature": "24.98","humidity": "54.05"}
+{"time": "2020/12/07 23:45:02","temperature": "24.19","humidity": "50.44"}
+{"time": "2020/12/08 00:00:04","temperature": "23.75","humidity": "50.83"}
