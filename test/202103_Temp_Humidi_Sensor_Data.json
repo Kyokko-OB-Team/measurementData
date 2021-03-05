@@ -407,3 +407,15 @@
 {"time": "2021/03/05 05:30:03","temperature": "24.20","humidity": "41.26"}
 {"time": "2021/03/05 05:45:03","temperature": "24.16","humidity": "40.80"}
 {"time": "2021/03/05 06:00:03","temperature": "24.13","humidity": "40.75"}
+{"time": "2021/03/05 06:15:03","temperature": "24.13","humidity": "40.30"}
+{"time": "2021/03/05 06:30:02","temperature": "23.93","humidity": "40.63"}
+{"time": "2021/03/05 06:45:02","temperature": "24.10","humidity": "40.56"}
+{"time": "2021/03/05 07:00:02","temperature": "24.27","humidity": "40.42"}
+{"time": "2021/03/05 07:15:02","temperature": "24.74","humidity": "42.92"}
+{"time": "2021/03/05 07:30:02","temperature": "26.68","humidity": "42.80"}
+{"time": "2021/03/05 07:45:02","temperature": "26.70","humidity": "41.65"}
+{"time": "2021/03/05 08:00:02","temperature": "26.98","humidity": "39.47"}
+{"time": "2021/03/05 08:15:02","temperature": "27.32","humidity": "36.04"}
+{"time": "2021/03/05 08:30:03","temperature": "27.11","humidity": "35.63"}
+{"time": "2021/03/05 08:45:03","temperature": "27.11","humidity": "35.50"}
+{"time": "2021/03/05 09:00:02","temperature": "27.07","humidity": "35.17"}
