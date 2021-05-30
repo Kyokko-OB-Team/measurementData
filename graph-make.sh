@@ -69,8 +69,8 @@ set format x "%H"
 set xlabel "time"
 
 # y軸
-# レンジ設定(0～40)
-set yrange [0:40]
+# レンジ設定
+set yrange [-20:60]
 
 # ラベル設定
 set ylabel "temp"
