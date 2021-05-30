@@ -39,13 +39,13 @@ DATA=`cat $DATAFILE | sed -e 's/: /,/g' | sed -e 's/ /,/g' | sed -e 's/[\{\|\}\|
 echo -e "$DATA" > tmp
 
 # degbu log
-echo -e "$DATA"
+#echo -e "$DATA"
 
 # グラフファイル名作成
 GRAPH_FILENAME=`echo $GRAPHDAY | sed -e 's/\///g'`
 
 # degbu log
-echo -e "$GRAPH_FILENAME"
+#echo -e "$GRAPH_FILENAME"
 
 # gnuplotスクリプト
 gnuplot <<- EOF
