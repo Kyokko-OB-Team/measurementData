@@ -671,3 +671,15 @@
 {"time": "2021/06/07 23:30:03","temperature": "27.15","humidity": "60.52"}
 {"time": "2021/06/07 23:45:02","temperature": "27.09","humidity": "60.18"}
 {"time": "2021/06/08 00:00:03","temperature": "26.95","humidity": "60.34"}
+{"time": "2021/06/08 00:15:03","temperature": "26.90","humidity": "63.62"}
+{"time": "2021/06/08 00:30:03","temperature": "26.91","humidity": "62.85"}
+{"time": "2021/06/08 00:45:03","temperature": "26.84","humidity": "61.96"}
+{"time": "2021/06/08 01:00:03","temperature": "26.80","humidity": "64.50"}
+{"time": "2021/06/08 01:15:02","temperature": "26.46","humidity": "66.62"}
+{"time": "2021/06/08 01:30:03","temperature": "26.21","humidity": "66.89"}
+{"time": "2021/06/08 01:45:03","temperature": "25.99","humidity": "67.49"}
+{"time": "2021/06/08 02:00:03","temperature": "25.78","humidity": "69.47"}
+{"time": "2021/06/08 02:15:03","temperature": "25.70","humidity": "71.47"}
+{"time": "2021/06/08 02:30:03","temperature": "25.56","humidity": "72.22"}
+{"time": "2021/06/08 02:45:03","temperature": "25.51","humidity": "72.64"}
+{"time": "2021/06/08 03:00:03","temperature": "25.30","humidity": "73.09"}
