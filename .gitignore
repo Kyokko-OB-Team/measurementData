@@ -71,3 +71,4 @@ Temporary Items
 
 # Original ignore file list
 nohup.out
+*_firestore.json
