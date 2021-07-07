@@ -500,3 +500,15 @@
 {"time": "2021/07/08 02:30:27","temperature": "30.99","humidity": "50.18","co2_concentration": "790.00"}
 {"time": "2021/07/08 02:45:27","temperature": "31.18","humidity": "54.02","co2_concentration": "802.00"}
 {"time": "2021/07/08 03:00:26","temperature": "30.65","humidity": "52.59","co2_concentration": "807.00"}
+{"time": "2021/07/08 03:15:26","temperature": "30.41","humidity": "56.77","co2_concentration": "925.00"}
+{"time": "2021/07/08 03:30:26","temperature": "29.87","humidity": "55.38","co2_concentration": "1013.00"}
+{"time": "2021/07/08 03:45:27","temperature": "30.21","humidity": "57.08","co2_concentration": "1083.00"}
+{"time": "2021/07/08 04:00:26","temperature": "30.13","humidity": "58.29","co2_concentration": "1118.00"}
+{"time": "2021/07/08 04:15:26","temperature": "29.86","humidity": "56.32","co2_concentration": "1152.00"}
+{"time": "2021/07/08 04:30:27","temperature": "30.11","humidity": "58.73","co2_concentration": "1179.00"}
+{"time": "2021/07/08 04:45:27","temperature": "29.90","humidity": "59.16","co2_concentration": "1202.00"}
+{"time": "2021/07/08 05:00:27","temperature": "30.01","humidity": "57.94","co2_concentration": "1211.00"}
+{"time": "2021/07/08 05:15:26","temperature": "30.05","humidity": "59.49","co2_concentration": "1227.00"}
+{"time": "2021/07/08 05:30:26","temperature": "29.87","humidity": "59.54","co2_concentration": "1236.00"}
+{"time": "2021/07/08 05:45:26","temperature": "29.80","humidity": "57.84","co2_concentration": "1243.00"}
+{"time": "2021/07/08 06:00:26","temperature": "30.03","humidity": "58.87","co2_concentration": "1236.00"}
