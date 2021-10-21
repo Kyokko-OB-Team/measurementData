@@ -5389,3 +5389,7 @@
 {"time": "2021/10/20 08:50:28","temperature": "16.42","humidity": "72.84","co2_concentration": "-1.00"}
 {"time": "2021/10/20 08:55:26","temperature": "16.52","humidity": "72.57","co2_concentration": "-1.00"}
 {"time": "2021/10/20 09:00:26","temperature": "16.46","humidity": "72.64","co2_concentration": "-1.00"}
+{"time": "2021/10/20 09:05:27","temperature": "16.67","humidity": "72.47","co2_concentration": "-1.00"}
+{"time": "2021/10/20 09:10:26","temperature": "16.64","humidity": "72.66","co2_concentration": "-1.00"}
+{"time": "2021/10/20 09:15:27","temperature": "16.73","humidity": "72.61","co2_concentration": "-1.00"}
+{"time": "2021/10/20 09:20:27","temperature": "16.81","humidity": "72.55","co2_concentration": "-1.00"}
